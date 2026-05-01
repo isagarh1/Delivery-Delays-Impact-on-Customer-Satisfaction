@@ -51,13 +51,14 @@ Created Delivery Status categories:
 - Performed regional analysis using state-level data
 - Tested correlation between delay % and satisfaction
 ## Key Insights
-- 38% of orders are delayed, indicating a large operational issue
-- Even slight delays reduce customer ratings significantly:
-- On-time: ~4.18
-- Slight delay: ~3.29 (~20% drop)
-- Severe delays have the lowest ratings but occur less frequently
-- Moderate delays are the most critical issue due to their balance of frequency and impact
-- No strong variation across states → problem is systemic, not regional
+## Key Insights
+- 38% of orders are delayed, indicating a systemic operational issue  
+- Customer satisfaction drops sharply even with minor delays:  
+  - On-time: ~4.18  
+  - Slight delay: ~3.29 (~20% decrease)  
+- Moderate delays represent the **highest business risk**, combining high frequency with significant satisfaction drop  
+- Severe delays have the lowest ratings but lower occurrence, making them less impactful overall  
+- Minimal variation across states → delays are driven by **system-wide inefficiencies**, not regional issues  
 ## Business Recommendations
 - Focus on reducing moderate delays, as they affect the most customers
 - Identify and fix bottlenecks in the delivery process
